@@ -1,0 +1,4 @@
+Yet another Project Euler Solution Set in JavaScript
+
+my solution for Project Euler problems (some are rewritten with reference algorithms)
+pure JavaScript, only uses console.log from node.js for easy testing in the console
